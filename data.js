@@ -4,24 +4,29 @@ const DETAIL_DATA = {
     "badge": "Sofistike Yerler",
     "items": [
         {
-            "title": "Karaköy Sokakları",
-            "desc": "Nezih kafeler, tasarım atölyeleri ve sanat galerileri."
+            "category": "Popüler Nokta 1",
+            "title": "Önemli Mekan 1 - Istanbul",
+            "desc": "Istanbul şehrinin en çok ziyaret edilen gözde lokasyonlarından biri."
         },
         {
-            "title": "Nişantaşı Abdi İpekçi",
-            "desc": "Seçkin dünya markaları ve lüks buluşma noktaları."
+            "category": "Popüler Nokta 2",
+            "title": "Önemli Mekan 2 - Istanbul",
+            "desc": "Tarihi ve kültürel dokusuyla büyüleyen özel bir nokta."
         },
         {
-            "title": "Moda Sahili",
-            "desc": "Kadıköy'ün sakin, entelektüel ve huzurlu atmosferi."
+            "category": "Popüler Nokta 3",
+            "title": "Önemli Mekan 3 - Istanbul",
+            "desc": "Gezginlerin rotasından eksik etmediği popüler bir durak."
         },
         {
-            "title": "Bebek Kahve & Sahil",
-            "desc": "Boğaz'ın en nezih ve seçkin sosyalleşme alanı."
+            "category": "Popüler Nokta 4",
+            "title": "Önemli Mekan 4 - Istanbul",
+            "desc": "Mimari ve doğal güzellikleriyle göz kamaştıran bölge."
         },
         {
-            "title": "Pera Palas Otel Salonu",
-            "desc": "Tarihi ve aristokratik çay saati deneyimi."
+            "category": "Popüler Nokta 5",
+            "title": "Önemli Mekan 5 - Istanbul",
+            "desc": "Istanbul keşif turunun vazgeçilmez simgelerinden biri."
         }
     ]
 };
